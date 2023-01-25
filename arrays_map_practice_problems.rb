@@ -1,7 +1,12 @@
 #  1. Start with an array of numbers and create a new array with each number times 3.
 #     For example, [1, 2, 3] becomes [3, 6, 9].
 
+# num = [1, 2, 3]
+# new_array = num.map do |x|
+#   x * 3
+# end
 
+# p new_array
 
 
 
@@ -11,10 +16,11 @@
 #  2. Start with an array of strings and create a new array with each string upcased.
 #     For example, ["hello", "goodbye"] becomes ["HELLO", "GOODBYE"].
 
-
-
-
-
+# array = ["hello", "cool"]
+# new_array = array.map do |word|
+#   word.upcase
+# end
+# p new_array
 
 
 #-------------------------------------------------------------------------------------------
