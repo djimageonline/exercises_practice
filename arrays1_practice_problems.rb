@@ -65,7 +65,7 @@
 # 8. Create an array to store 5 numbers. Then change the first number to 10 times its original value and print the array on one line.
 
 # numbers = [4, 6, 2, 4, 1]
-# numbers[0] = 8
+# numbers[0] = 10 * numbers[0]
 # p numbers
 
 
