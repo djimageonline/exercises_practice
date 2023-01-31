@@ -121,7 +121,4 @@
 # p shirts[:size]
 
 
-
-
-
 # SOLUTIONS: https://gist.github.com/peterxjang/d257aec07882d78009bd796ed53f81bb
